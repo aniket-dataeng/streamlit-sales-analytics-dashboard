@@ -13,6 +13,11 @@ An dashboard built using **Streamlit** and **Snowflake** to visualize and analyz
 - Powered by Snowflake data warehouse.
 - Clean, minimal design using native Streamlit components.
 
+## Working Demo
+![image](https://github.com/user-attachments/assets/7645ead0-3260-4075-949d-c5ce09ccacd4)
+![image](https://github.com/user-attachments/assets/034d926c-b10a-446e-b309-1662c86365a6)
+
+
 ## Tech Stack
 
 - Python
