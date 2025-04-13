@@ -23,6 +23,8 @@ An interactive dashboard built using **Streamlit** and **Snowflake** to visualiz
 
 ## How to Run
 
-```bash
-pip install streamlit pandas altair
-streamlit run app.py
+- Create a free snowflake account
+- Create a database & schema
+- Create table and view from the snowflake sql file in repo
+- Load the data into table
+- Create a new streamlit app and paste the streamlit code from repo and run it.
